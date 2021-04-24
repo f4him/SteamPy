@@ -20,7 +20,7 @@ SteamPy is a SCM investment profit tracker for CS:GO items.
 
 SteamPy requires [python](https://www.python.org/) to run.
 
-Download all the files and create a virtual environment in the same directory.
+Download all the files and [create a virtual environment](https://www.geeksforgeeks.org/python-virtual-environment/) in the same directory.
 Install all the required libraries:
 ```sh
 pip install -r requirements.txt
