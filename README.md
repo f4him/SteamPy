@@ -54,3 +54,5 @@ python main.py -h
 ## Development
 
 Want to contribute? Great! Feel free to fork or drop any ideas to improve the efficiency and functionality of the tool.
+
+If you really liked this tool and wanna support me, you can [donate me a skin](https://steamcommunity.com/id/fahim23/) ;) Even a safari mesh helps. 
