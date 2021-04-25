@@ -14,14 +14,6 @@ def get_curr_price(name):
     r =requests.get(url)
     y = json.loads(r.text)
     return float(y["lowest_price"][1:])
-    
-
-
-
-
-
-
-
 
 
 if __name__ == "__main__":
